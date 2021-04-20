@@ -1,6 +1,6 @@
 # Welcome to the Growth And Resilience across Development (GARD) Lab!
 
-Welcome to the GARD Lab! Effective research is done in teams, so we are always pumped about new adding new team members! This manual outlines expectations for all lab members, a code of conduct, and general lab policies. If you are new to the GARD Lab, read through the entire lab manual. Contact Dr. Gard with any questions, concerns, or suggestions for making our lab manual more accessible (there is always room to grow). 
+Welcome to the GARD Lab! Effective research is done in teams, so we are always pumped about new adding new team members! This manual outlines expectations for all lab members, a code of conduct, and general lab policies. If you are new to the GARD Lab, read through the entire lab manual. Contact Dr. Gard with any questions, concerns, or suggestions for making our lab manual more accessible (there is always room to grow!). 
 
 ## Mission Statement
 
