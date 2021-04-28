@@ -49,5 +49,13 @@ There are a few day-to-day things to keep in mind to ensure the lab runs smoothl
 * Come to meetings with Dr. Gard with an agenda. 
 * Dress code is casual. You can dress up if you want; you can wear jeans; you can wear workout clothes. On visit with participants or when presenting your work, dress more professionally. That means no pajamas or crop tops or short-shorts. This doesn't mean suits and ties; this does mean wearing outfits that don't risk making someone feel uncomfortable. 
 
+#### Hours and Working in the Lab
+
+
+#### Communication
+
+#### Outreach and Service
+
+#### Open Science
 
 
