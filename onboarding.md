@@ -2,7 +2,7 @@
 
 Starting a new position can be overwhelming. Adapting to new systems, adhereing to protocols, adjusting to the lab culture - all challenging tasks (both hopefully exciting)! This onboarding manual in intended to give you a jump start. It will walk you through the tools that the lab uses, identify mandatory trainings that you will need to take, and guide you through the onboarding process. 
 
-## Tools
+## Tools (for everyone)
 The following are tools that the lab uses to run smoothly. All lab members are expected to engage with these tools to various degrees.
 
 * **Github** (https://github.com/gardlab/). The lab has its own github account. This account should be used to store manuals and protocols, data analysis scripts, and open-source data and stimuli. The data manager is in charge of managing the account. 
@@ -33,4 +33,7 @@ The following are tools that the lab uses to run smoothly. All lab members are e
     * The lab manager or Dr. Gard will add you to the GARD Lab box folder - remind them if they don't!
     * Since we are a new lab, we don't yet have a file organization system for our Box account. We will develop a protocol together.
     * You should never store data on your personal computer. This is what the desktop version of Box is for. Map your scripts to the datafiles located on box or the shared server drive (more soon on that)
+
+## Trainings (for some)
+There are several major research areas that the lab tackles. Each method/approach requires heavy investment - this is why we specialize! You can't know everything. That is why interdisciplinary work is so important -- collaborate with other experts while becoming an expert yourself in 1-2 well-defined methods/approaches
 
