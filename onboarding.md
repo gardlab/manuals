@@ -35,5 +35,7 @@ The following are tools that the lab uses to run smoothly. All lab members are e
     * You should never store data on your personal computer. This is what the desktop version of Box is for. Map your scripts to the datafiles located on box or the shared server drive (more soon on that)
 
 ## Trainings (for some)
-There are several major research areas that the lab tackles. Each method/approach requires heavy investment - this is why we specialize! You can't know everything. That is why interdisciplinary work is so important -- collaborate with other experts while becoming an expert yourself in 1-2 well-defined methods/approaches
+There are several major research areas that the lab tackles. Each method/approach requires heavy investment - this is why we specialize! You can't know everything - we collaborate with other experts while your become an expert yourself in 1-2 well-defined methods/approaches. 
+* **fMRI** - functional MRI is a major focus on the lab. There are several parallels in working with task-based and resting-state fMRI data, but also several differences. Graduate students with a focus on fMRI research should intend to take Dr. Luis Pessoa's NACS course "Introduction to Functional Magnetic Resonance Imaging". In addition, there are several online courses that can be incredibly helpful, some geared towards different packages. Check in with Dr. Gard to see which courses/trainings you should take:
+   * Andy Jahn's Brain Book: https://andysbrainbook.readthedocs.io/en/latest/
 
