@@ -23,6 +23,9 @@ Science is hard. Sometimes really hard. Whether you are an undergraduate student
 * Have a life outside of the lab, take care of your mental and physical health, and never feel bad for taking time off work, and don’t make others feel bad for doing that either.  
 
 ### Principle Investigator
+All of the above as well as:
+* I will support you in your training and career choices. Whether you aim to land a position in an academic setting, policy or government agency, private practice, nonprofit institution, etc. - your life, your choices. My job is to make sure you have the support that you need to thrive!
+
 
 ### Graduate Students
 
