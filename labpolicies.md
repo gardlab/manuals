@@ -24,26 +24,27 @@ Science is hard. Sometimes really hard. Whether you are an undergraduate student
 
 ### Principle Investigator
 All of the "everyone" expectations above as well as:
-* I will support you in your training and career choices. Whether you aim to land a position in an academic setting, policy or government agency, private practice, nonprofit institution, etc. - your life, your choices. My job is to make sure you have the support that you need to thrive.
-* I will provide feedback on trainee papers, grant proposals, or anything else within 2 weeks. 
-
+* Support you in your training and career choices (e.g., by introducing you to other researchers in the field, promoting your work at talks, writing recommendation letters for you, and supporting your attendence conferences). Whether you aim to land a position in an academic setting, policy or government agency, private practice, nonprofit institution, etc. - your life, your choices. My job is to make sure you have the support that you need to thrive.
+* Provide feedback on trainee papers, grant proposals, or anything else you need within 2 weeks. 
+* Be available in person and/or on slack during weekday business hours, and be available for regular trainee-mentee meetings
 
 ### Graduate Students
 All of the "everyone" expectations above as well as:
+* Think critically about what you want for your career (academia – research or teaching, industry, policy, clinical practice or hospital-based work). It is never too early to start discussing this with me (Dr. Gard) so that we can make sure you are getting the types of training you need. 
+* Seek secondary mentorship. I do not have all of the answers
+* Collect data for the ongoing projects in the lab, which includes any major group projects.
+* 
 
 ### Lab Staff 
-All of the "everyone" expectations above as well as:
+All of the above, as well as:
 
 ### Undergraduate Research Assistants 
-All of the "everyone" expectations above as well as:
+All of the above, as well as:
 * Work in the lab for 2 semesters or more. This policy is important for ensuring that undergraduate RAs have enough time to master a skill (e.g., coding videos, running a data collection protocol, quality control of brain images) and to build effective lab relationships. It is hard to get to know someone in a 3-4 month period!
-* There are no volunteer positions in the Gard Lab. We believe that all research assistants (at every level) should be compensated for their time. Compensation may be in the form of course credit through Psych 478 or hourly pay. In general, the first semester in the lab is for course credit. Pending satisfactory performance, the second semester and beyond will be hourly pay at $15/hour. If you took a course with Dr. Gard, she may be able to waive the first semester of course credit. 
-* Complete a semester expectations document at the beginning of each semester. In this document, you will outline how many hours per week you intend to work and when, your training goals, your preferred gender pronouns, and any dietary restrictions (yes, events involving food will occur). 
-* Complete a semester review form at the end of each semester. In this document, you will work with Dr. Gard to gauge your progress and provide feedback on lab activities and culture. 
-* Answer emails within 24 hours on weekdays. 
-* If you are working on a shared project in Slack, respond to Slack messages within 24 hours on weekdays.
-* Log your hours each week on google drive. 
-* If you have a question, ask one of your peer undergraduate RAs before asking senior staff. Use Slack to reduce email where possible!
+* There are no volunteer positions in the Gard Lab. We believe that all research assistants (at every level) should be compensated for their time. Compensation may be in the form of course credit through Psych 478 or hourly pay. In general, your first semester in the lab will be for course credit. Pending satisfactory performance, your second semester and beyond will be for hourly pay at $15/hour. If you took a course with Dr. Gard, she may be able to waive the first semester of course credit. 
+* Update the avilability calendar at the beginning of the semester and anytime scheduling conflicts arise. Log your hours each week. 
+* Attend lab meetings and project-specific undergraduate meetings (when scheduled). Be on time and come prepared!
+* If you have a question, ask one of your peer undergraduate RAs before asking senior staff. 
 * If you need something signed or written from Dr. Gard or another senior staff member, give at least 2 weeks lead-time. 
 
 ## Code of Conduct
@@ -69,8 +70,15 @@ There are a few day-to-day things to keep in mind to ensure the lab runs smoothl
 
 #### Communication
 
+* Answer emails within 24 hours on weekdays. 
+* If you are working on a shared project in Slack, respond to Slack messages within 24 hours on weekdays.
+
 #### Outreach and Service
 
 #### Open Science
 
 
+
+
+* Complete a semester expectations document at the beginning of each semester. In this document, you will outline how many hours per week you intend to work and when, your training goals, your preferred gender pronouns, and any dietary restrictions (yes, events involving food will occur). 
+* Complete a semester review form at the end of each semester. In this document, you will work with Dr. Gard to gauge your progress and provide feedback on lab activities and culture. 
