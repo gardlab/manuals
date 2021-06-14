@@ -47,11 +47,13 @@ All of the "everyone" expectations above as well as:
 All of the "everyone" expectations above as well as:
 * Document your work. Every time you write or modify a script, develop a protocol, or identify a resource, document it! This type of information can be thought of as "lab knowledge"; documentation ensures that we don't repeat our hard work unnecessarily.
 * Come to individual and project-specific meetings with an agenda
-* Take notes in meetings and generate to-do lists. Consult with Dr. Gard and senior staff to generate appropriate deadlines. 
+* Take notes in meetings and generate to-do lists. Consult with Dr. Gard and senior staff members to generate appropriate deadlines. 
 * Collect data for ongoing projects in the lab.
-* Take an active role in protocol and research project development. If you see a more efficient way to accomplish a task, bring your idea to the "table".
+* Take an active role in protocol and research project development. If you see a more efficient way to accomplish a task, bring your ideas to the "table".
 * Help mentor undergraduate students in the lab. Oftentimes, an undegraduate student will be helping you with your job responsibilites. When you are the day-to-day mentor, you are responsible for communicating your expectations, project goals, etc.
-* Develop your own research project using an existing dataset. In general, staff are protected ~1 day/week to work on their own project. This is unlikely to be "enough" time to see a paper through to completion; dp
+* Develop your own research project using an existing dataset. In general, staff are protected ~1 day/week to work on their own project. This is unlikely to be "enough" time to see a paper through to completion. Thus, depending on your own goals, you will have to work on your paper on your own time in addition to during protected lab time.
+* Flexibly adapt to weekly needs. Although your tasks will be predictable most of the time, things may come up that need attention immediately. Adjust your expectations accordingly. If someone in the lab or an external collaborator is expecting something of you, communicate an updated due date.
+* Log your hours each week by task and/or project. This will guide our expectations for how much time things take to complete.
 
 ### Undergraduate Research Assistants 
 All of the above, as well as:
