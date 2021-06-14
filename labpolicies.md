@@ -18,25 +18,37 @@ Science is hard. Sometimes really hard. Whether you are an undergraduate student
 * Treat others how you want to be treated. Respect your fellow lab mates' strengths and weaknesses, respect their desire for quiet if they need it and support when they want it. Respect their culture, religion, their beliefs, their sexual orientation, and any other part of their identity. 
 * If you are struggling, tell someone. Your health and happiness comes first. We can't do good and just science without taking breaks and recharging. 
 * If there is any tension of hostility in the lab, address it immediately. We cannot thrive in an environment that we are not comfortable in; hostility and disrespect will not be tolerated. If you don't feel comfortable confronting the person in question, tell Dr. Gard. Tell Dr. Gard or a lab manager in any case.
-* If you have a problem with Dr. Gard are comfortable telling her, please do. We are all learning and growing. Dr. Gard will make mistakes just like everyone else. If you don't feel comfortable, talk to a lab manager or another member of the Psychology or NACS Departments.
+* If you have a problem with Dr. Gard and are comfortable telling her, please do. We are all learning and growing. Dr. Gard will make mistakes just like everyone else. If you don't feel comfortable, talk to a lab manager or another member of the Psychology or NACS Departments.
 * Respect our participants, who are are giving up their time and energy to be involved in research. Always act professionally with participants over the phone and in person, do not leave them waiting. Keep in mind that participants may have different political and religious beliefs, sexual orientations, family compositions, and have had very different life experiences, to you and/or your friends. Please conduct yourself in a way that respects their unique situation and personhood.
 * Have a life outside of the lab, take care of your mental and physical health, and never feel bad for taking time off work, and don’t make others feel bad for doing that either.  
 
 ### Principle Investigator
 All of the "everyone" expectations above as well as:
-* Support you in your training and career choices (e.g., by introducing you to other researchers in the field, promoting your work at talks, writing recommendation letters for you, and supporting your attendence conferences). Whether you aim to land a position in an academic setting, policy or government agency, private practice, nonprofit institution, etc. - your life, your choices. My job is to make sure you have the support that you need to thrive.
+* Support you in your training and career choices (e.g., by introducing you to other researchers in the field, promoting your work at talks, writing recommendation letters for you, and supporting your attendence conferences). Whether you aim to land a position in an academic setting, policy or government agency, private practice, nonprofit institution, etc. - your life, your choices. Dr. Gard's job is to make sure you have the support that you need to thrive.
 * Provide feedback on trainee papers, grant proposals, or anything else you need within 2 weeks. 
 * Be available in person and/or on slack during weekday business hours, and be available for regular trainee-mentee meetings
+* Guide the research program in the lab. Adapt lab priorities to reflect trainee interests. 
+* Write grants to support rese
 
 ### Graduate Students
 All of the "everyone" expectations above as well as:
-* Think critically about what you want for your career (academia – research or teaching, industry, policy, clinical practice or hospital-based work). It is never too early to start discussing this with me (Dr. Gard) so that we can make sure you are getting the types of training you need. 
-* Seek secondary mentorship. I do not have all of the answers
+* Think critically about what you want for your career (academia – research or teaching, industry, policy, clinical practice or hospital-based work). It is never too early to start discussing this with Dr. Gard so that we can make sure you are getting the types of training you need.  
+* Become an expert in a well-defined research area. Dr. Gard will work with you to identify 1-2 research areas of interest. By the time you leave UMD, you will know more about these topics than Dr. Gard (this is how it should be). But this requires you to take ownership of your expertise - strategize with Dr. Gard, other mentors, and your lab-mates about how to build this expertise. 
+* Document your work. Every project/paper you work on should be accompanied by an activity log, which includes things like analytic decisions, filenames and paths, and meeting notes. Every time you write or modify a script, develop a protocol, or identify a resource, document it! This type of information can be thought of as "lab knowledge"; documentation ensures that we don't repeat our hard work unnecessarily.  
+* Follow the scientist-mentor model. As you know from the application process, prospective students are accepted into the program to work with one primary faculty mentor. Your mentor is intended to guide you through the program and, as such, is required to "sign-off" on most department-related decisions. Thus, consult with Dr. Gard often about anything from course selection, research activities, desired training, etc. 
+* Come to meetimgs with an agenda
 * Collect data for the ongoing projects in the lab, which includes any major group projects.
-* 
+* Take an active role in protocol and research project development. If you see a more efficient way to accomplish a task, bring your idea to the "table". 
+* Make sure you meet all departmental and internal lab deadlines (e.g., exams, thesis, grant applications) – and make sure Dr. Gard is aware of them!
+* Help mentor undergraduate students in the lab. Undergraduate students may be paired with a trainee if interests align. Oftentimes, an undegraduate student will be helping your with your project. When you are the day-to-day mentor, you are responsible for communicating your expectations, project goals, etc. 
 
 ### Lab Staff 
-All of the above, as well as:
+All of the "everyone" expectations above as well as:
+* Document your work. Every project/paper you work on should be accompanied by an activity log, which includes things like analytic decisions, filenames and paths, and meeting notes. Every time you write or modify a script, develop a protocol, or identify a resource, document it! This type of information can be thought of as "lab knowledge"; documentation ensures that we don't repeat our hard work unnecessarily.
+* Come to meetimgs with an agenda
+* Collect data for the ongoing projects in the lab, which includes any major group projects.
+* Take an active role in protocol and research project development. If you see a more efficient way to accomplish a task, bring your idea to the "table".
+* Help mentor undergraduate students in the lab. Oftentimes, an undegraduate student will be helping you with your job responsibilites. When you are the day-to-day mentor, you are responsible for communicating your expectations, project goals, etc.
 
 ### Undergraduate Research Assistants 
 All of the above, as well as:
