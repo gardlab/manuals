@@ -34,7 +34,7 @@ All of the "everyone" expectations above as well as:
 All of the "everyone" expectations above as well as:
 * Think critically about what you want for your career (academia – research or teaching, industry, policy, clinical practice or hospital-based work). It is never too early to start discussing this with Dr. Gard so that we can make sure you are getting the types of training you need.  
 * Become an expert in a well-defined research area. Dr. Gard will work with you to identify 2-3 research areas of interest. Based on the lab's foci, one of these research areas will likely be a bio modality (e.g., epigenetic methylation, functional MRI, stress physiology). By the time you leave UMD, you will know more about these topics than Dr. Gard (this is how it should be!). This requires you to take ownership of your expertise - strategize with Dr. Gard, other mentors, and your lab-mates about how to build this knowledge. 
-* Use existing secondary data for some of your projects. Why do we use secondary data? Brilliant researchers before us have spent years collecting large, statistically well-powered datasets; individuals and families have donated their time to make this research possible; funding organizations have supported this research financially. By utilizing secondary datasets, we are acknowledging these enormous efforts. The GARD Lab engages in a mix of primary data collection and secondary data analysis; your research activities should reflect this.      
+* Use existing secondary data for some of your projects. Why do we use secondary data? Brilliant researchers before us have spent years collecting large, statistically well-powered datasets; individuals and families have donated their time to make this research possible; funding organizations have supported this research financially. By utilizing secondary datasets, we are acknowledging these enormous efforts. The GARD Lab engages in a mix of primary data collection and secondary data analysis; your research activities should reflect this. All submitted papers using secondary data will be accompanied by a replication package.     
 * Document your work. Every project/paper you work on should be accompanied by an activity log, which includes things like analytic decisions, filenames and paths, and meeting notes. Every time you write or modify a script, develop a protocol, or identify a resource, document it! This type of information can be thought of as "lab knowledge"; documentation ensures that we don't repeat our hard work unnecessarily.  
 * Follow the scientist-mentor model. As you know from the application process, prospective students are accepted into the program to work with one primary faculty mentor. Your mentor is intended to guide you through the program and, as such, is required to "sign-off" on most department-related decisions. Thus, consult with Dr. Gard often about anything from course selection, research activities, desired training, etc. 
 * Come to individual meetings with an agenda
@@ -42,6 +42,8 @@ All of the "everyone" expectations above as well as:
 * Take an active role in protocol and research project development. If you see a more efficient way to accomplish a task, bring your ideas "to the table". 
 * Make sure you meet all departmental and external lab deadlines (e.g., exams, thesis, grant applications) – and make sure Dr. Gard is aware of them!
 * Help mentor undergraduate students in the lab. Undergraduate students may be paired with a trainee if interests align. Oftentimes, an undegraduate student will be helping your with your project. When you are the day-to-day mentor, you are responsible for communicating your expectations, project goals, etc. 
+* Be available 1 weekend per month for project data collection and/or lab outreach. 
+* Update your weekend avilability at the beginning of the semester and anytime scheduling conflicts arise.
 
 ### Lab Staff 
 All of the "everyone" expectations above as well as:
@@ -51,9 +53,11 @@ All of the "everyone" expectations above as well as:
 * Collect data for ongoing projects in the lab.
 * Take an active role in protocol and research project development. If you see a more efficient way to accomplish a task, bring your ideas to the "table".
 * Help mentor undergraduate students in the lab. Oftentimes, an undegraduate student will be helping you with your job responsibilites. When you are the day-to-day mentor, you are responsible for communicating your expectations, project goals, etc.
-* Develop your own research project using an existing dataset. In general, staff are protected ~1 day/week to work on their own project. This is unlikely to be "enough" time to see a paper through to completion. Thus, depending on your own goals, you will have to work on your paper on your own time in addition to during protected lab time.
+* Develop your own research project using an existing dataset. In general, staff are protected ~1 day/week to work on their own project. This is unlikely to be "enough" time to see a paper through to completion. Thus, depending on your own goals, you will have to work on your paper on your own time in addition to during protected lab time. All submitted papers using secondary data will be accompanied by a replication package.     
 * Flexibly adapt to weekly needs. Although your tasks will be predictable most of the time, things may come up that need attention immediately. Adjust your expectations accordingly. If someone in the lab or an external collaborator is expecting something of you, communicate an updated due date.
 * Log your hours each week by task and/or project. This will guide our expectations for how much time things take to complete.
+* Be available on the weekends for project data collection and/or outreach. These hours will be deducted from your M-F schedule (e.g., Monday off, work on Saturday). 
+* Update your weekend avilability at the beginning of the semester and anytime scheduling conflicts arise.
 
 ### Undergraduate Research Assistants 
 All of the above, as well as:
@@ -66,7 +70,15 @@ All of the above, as well as:
 
 ## Code of Conduct
 
-### Essential University Policies
+The University of Maryland maintains a Code of Conduct for students (https://studentconduct.umd.edu/home/current-students) and staff/faculty (https://studentconduct.umd.edu/home/faculty-staff). This code of conduct pertains to both academic and non-academic misconduct. In addition, the University and the GARD Lab are committed to maintaining a working and learning environment free from sexual misconduct and discrimination; policies and procedures have been developed by the Office of Civil Rights and Sexual Misconduct (https://ocrsm.umd.edu/). At the broadest level, the following classes of behaviors are prohibited:
+
+Discrimination is unequal treatment based on a legally protected status that is serious enough to unreasonably interfere with or limit an individual’s ability to participate in or benefit from a University program or activity, or that otherwise negatively affects a term or condition of the individual’s employment or education.
+
+Harassment is discrimination in the form of unwelcome conduct based on a person’s protected status that negatively affects the particular individual and also would negatively affect a reasonable person under the same circumstances. Harassment can be verbal, physical, written, graphic, electronic or otherwise displayed or communicated.
+
+Retaliation is action(s) taken against an individual because they reported discrimination, filed a complaint of discrimination, or participated in an investigation or proceeding concerning a discrimination complaint.
+
+Sexual Harassment, Other Sexual Misconduct, and Retaliation may occur between strangers or acquaintances, including people involved in an intimate or sexual relationship. Prohibited Conduct can be committed by any person, regardless of gender identity, and can occur between people of the same or different sex, sexual orientation, or gender expression. 
 
 ### Scientific Integrity
 
@@ -81,7 +93,7 @@ There are a few day-to-day things to keep in mind to ensure the lab runs smoothl
 * Keep the lab tidy. Eating in the lab is fine, but clean up food waste, crumbs, and spills. Put lab equipment back where you found it. Keep common areas uncluttered. Disinfect surface that you use before you leave
 * Be on time. Respect everyone's (peers, participants, PI) time. 
 * Come to meetings with Dr. Gard with an agenda. 
-* Dress code is casual. You can dress up if you want; you can wear jeans; you can wear workout clothes. On visit with participants or when presenting your work, keep is professional, keep it classy. This doesn't mean suits and ties; this does mean wearing outfits that don't risk making someone feel uncomfortable. 
+* Dress code is casual. You can dress up if you want; you can wear jeans; you can wear workout clothes. On visit with participants or when presenting your work, keep it professional, keep it classy. This doesn't mean suits and ties; this does mean wearing outfits that don't risk making someone feel uncomfortable. 
 
 #### Hours and Working in the Lab
 
