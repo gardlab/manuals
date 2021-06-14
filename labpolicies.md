@@ -28,27 +28,30 @@ All of the "everyone" expectations above as well as:
 * Provide feedback on trainee papers, grant proposals, or anything else you need within 2 weeks. 
 * Be available in person and/or on slack during weekday business hours, and be available for regular trainee-mentee meetings
 * Guide the research program in the lab. Adapt lab priorities to reflect trainee interests. 
-* Write grants to support rese
+* Write grants to support research and trainees. 
 
 ### Graduate Students
 All of the "everyone" expectations above as well as:
 * Think critically about what you want for your career (academia – research or teaching, industry, policy, clinical practice or hospital-based work). It is never too early to start discussing this with Dr. Gard so that we can make sure you are getting the types of training you need.  
-* Become an expert in a well-defined research area. Dr. Gard will work with you to identify 1-2 research areas of interest. By the time you leave UMD, you will know more about these topics than Dr. Gard (this is how it should be). But this requires you to take ownership of your expertise - strategize with Dr. Gard, other mentors, and your lab-mates about how to build this expertise. 
+* Become an expert in a well-defined research area. Dr. Gard will work with you to identify 2-3 research areas of interest. Based on the lab's foci, one of these research areas will likely be a bio modality (e.g., epigenetic methylation, functional MRI, stress physiology). By the time you leave UMD, you will know more about these topics than Dr. Gard (this is how it should be!). This requires you to take ownership of your expertise - strategize with Dr. Gard, other mentors, and your lab-mates about how to build this knowledge. 
+* Use existing secondary data for some of your projects. Why do we use secondary data? Brilliant researchers before us have spent years collecting large, statistically well-powered datasets; individuals and families have donated their time to make this research possible; funding organizations have supported this research financially. By utilizing secondary datasets, we are acknowledging these enormous efforts. The GARD Lab engages in a mix of primary data collection and secondary data analysis; your research activities should reflect this.      
 * Document your work. Every project/paper you work on should be accompanied by an activity log, which includes things like analytic decisions, filenames and paths, and meeting notes. Every time you write or modify a script, develop a protocol, or identify a resource, document it! This type of information can be thought of as "lab knowledge"; documentation ensures that we don't repeat our hard work unnecessarily.  
 * Follow the scientist-mentor model. As you know from the application process, prospective students are accepted into the program to work with one primary faculty mentor. Your mentor is intended to guide you through the program and, as such, is required to "sign-off" on most department-related decisions. Thus, consult with Dr. Gard often about anything from course selection, research activities, desired training, etc. 
-* Come to meetimgs with an agenda
+* Come to individual meetings with an agenda
 * Collect data for the ongoing projects in the lab, which includes any major group projects.
-* Take an active role in protocol and research project development. If you see a more efficient way to accomplish a task, bring your idea to the "table". 
-* Make sure you meet all departmental and internal lab deadlines (e.g., exams, thesis, grant applications) – and make sure Dr. Gard is aware of them!
+* Take an active role in protocol and research project development. If you see a more efficient way to accomplish a task, bring your ideas "to the table". 
+* Make sure you meet all departmental and external lab deadlines (e.g., exams, thesis, grant applications) – and make sure Dr. Gard is aware of them!
 * Help mentor undergraduate students in the lab. Undergraduate students may be paired with a trainee if interests align. Oftentimes, an undegraduate student will be helping your with your project. When you are the day-to-day mentor, you are responsible for communicating your expectations, project goals, etc. 
 
 ### Lab Staff 
 All of the "everyone" expectations above as well as:
-* Document your work. Every project/paper you work on should be accompanied by an activity log, which includes things like analytic decisions, filenames and paths, and meeting notes. Every time you write or modify a script, develop a protocol, or identify a resource, document it! This type of information can be thought of as "lab knowledge"; documentation ensures that we don't repeat our hard work unnecessarily.
-* Come to meetimgs with an agenda
-* Collect data for the ongoing projects in the lab, which includes any major group projects.
+* Document your work. Every time you write or modify a script, develop a protocol, or identify a resource, document it! This type of information can be thought of as "lab knowledge"; documentation ensures that we don't repeat our hard work unnecessarily.
+* Come to individual and project-specific meetings with an agenda
+* Take notes in meetings and generate to-do lists. Consult with Dr. Gard and senior staff to generate appropriate deadlines. 
+* Collect data for ongoing projects in the lab.
 * Take an active role in protocol and research project development. If you see a more efficient way to accomplish a task, bring your idea to the "table".
 * Help mentor undergraduate students in the lab. Oftentimes, an undegraduate student will be helping you with your job responsibilites. When you are the day-to-day mentor, you are responsible for communicating your expectations, project goals, etc.
+* Develop your own research project using an existing dataset. In general, staff are protected ~1 day/week to work on their own project. This is unlikely to be "enough" time to see a paper through to completion; dp
 
 ### Undergraduate Research Assistants 
 All of the above, as well as:
