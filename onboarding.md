@@ -42,9 +42,19 @@ The following are tools that the lab uses to run smoothly. All lab members are e
             2. A Secure Shell (SSH) Client. This applies to if you are working on your local computer or a computer in the lab. For PCs, download PuTTY here https://www.putty.org/ . MACs have a built-in SSH Client, which you can access through terminal (Finder --> Utilities --> Terminal).
             3. Mounting the server drive onto a local computer (either your own or in the lab), via SMB. 
 
+## Trainings (for everyone)
+All of the following at trainings that must be completed before you start working in the lab. In some cases, you will attend a lab-wide training during your first semester in the GARD Lab.
+*  **UMD History** The African American History and Landmarks at UMD Tour. In-person where possible. https://bsos.umd.edu/diversity/african-american-history-and
+*  **UMD Office of Diversity and Inclusion: Diversity Training** Lab Staff request annual training for the lab here: https://diversity.umd.edu/training-education/diversity-training/
+*  
+
 ## Trainings (for some)
 There are several major research areas that the lab tackles. Each method/approach requires heavy investment - this is why we specialize! You can't know everything - we collaborate with other experts while you become an expert in 1-2 well-defined methods/approaches. 
-* **linux bash command line** - most folks in the lab need to learn how to navigate in the command line environment. Our server, basil, is best accessed from a SSH client. Below are a few resources that will give you a basic introduction to linux command line. If you find a resource that you like, please add it here with some notes about how it is different/better/more fun than those listed below! 
+* **Program Policies** All new graduate students (Clinical, Developmental, NACS) are required to review their area's graduate student handbook and promptly set up a meeting with Dr. Gard for discussion. This should occur before the Fall semester of your first year or shortly after your first semester begins. 
+   *  Clinical Psych: https://psyc.umd.edu/graduate/clinical-psychology
+   *  Developmental Psych: https://psyc.umd.edu/graduate/developmental-program
+   *  Neuroscience and Cognitive Neuroscience: https://nacs.umd.edu/landingtopic/current-nacs-students
+* **Linux bash command line** - most folks in the lab need to learn how to navigate in the command line environment. Our server, basil, is best accessed from a SSH client. Below are a few resources that will give you a basic introduction to linux command line. If you find a resource that you like, please add it here with some notes about how it is different/better/more fun than those listed below! 
    * https://linuxcommand.org/
    * https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
 * **fMRI** - functional MRI is a major focus on the lab. There are several parallels in working with task-based and resting-state fMRI data, but also several differences. Graduate students with a focus on fMRI research should intend to take Dr. Luis Pessoa's NACS course "Introduction to Functional Magnetic Resonance Imaging". In addition, there are several online courses that can be incredibly helpful, some geared towards different packages. Check in with Dr. Gard to see which courses/trainings you should take:
