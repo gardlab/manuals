@@ -69,13 +69,13 @@ All of the above, as well as:
 ## Code of Conduct
 The University of Maryland maintains a Code of Conduct for students (https://studentconduct.umd.edu/home/current-students) and staff/faculty (https://studentconduct.umd.edu/home/faculty-staff). This code of conduct pertains to both academic and non-academic misconduct. In addition, the University and the GARD Lab are committed to maintaining a working and learning environment free from sexual misconduct and discrimination; policies and procedures have been developed by the Office of Civil Rights and Sexual Misconduct (https://ocrsm.umd.edu/). At the broadest level, the following classes of behaviors are prohibited:
 
-**Discrimination** is unequal treatment based on a legally protected status that is serious enough to unreasonably interfere with or limit an individual’s ability to participate in or benefit from a University program or activity, or that otherwise negatively affects a term or condition of the individual’s employment or education.
+>**Discrimination** is unequal treatment based on a legally protected status that is serious enough to unreasonably interfere with or limit an individual’s ability to participate in or benefit from a University program or activity, or that otherwise negatively affects a term or condition of the individual’s employment or education.
 
-**Harassment** is discrimination in the form of unwelcome conduct based on a person’s protected status that negatively affects the particular individual and also would negatively affect a reasonable person under the same circumstances. Harassment can be verbal, physical, written, graphic, electronic or otherwise displayed or communicated.
+>**Harassment** is discrimination in the form of unwelcome conduct based on a person’s protected status that negatively affects the particular individual and also would negatively affect a reasonable person under the same circumstances. Harassment can be verbal, physical, written, graphic, electronic or otherwise displayed or communicated.
 
-**Retaliation** is action(s) taken against an individual because they reported discrimination, filed a complaint of discrimination, or participated in an investigation or proceeding concerning a discrimination complaint.
+>**Retaliation** is action(s) taken against an individual because they reported discrimination, filed a complaint of discrimination, or participated in an investigation or proceeding concerning a discrimination complaint.
 
-**Sexual Harassment, Other Sexual Misconduct, and Retaliation** may occur between strangers or acquaintances, including people involved in an intimate or sexual relationship. Prohibited Conduct can be committed by any person, regardless of gender identity, and can occur between people of the same or different sex, sexual orientation, or gender expression. 
+>**Sexual Harassment, Other Sexual Misconduct, and Retaliation** may occur between strangers or acquaintances, including people involved in an intimate or sexual relationship. Prohibited Conduct can be committed by any person, regardless of gender identity, and can occur between people of the same or different sex, sexual orientation, or gender expression. 
 
 ### Scientific Integrity
 #### Open Science
