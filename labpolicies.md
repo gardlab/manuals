@@ -15,6 +15,7 @@ Science is hard. Sometimes really hard. Whether you are an undergraduate student
 * Do not rush your work. Plan out your tasks. Double-check and triple-check your work
 * Ask for help. Never be embarassed to ask for what you need - whether this is another set of eyes on a piece of code or data, an extension on a deadline, time to think, etc.
 * Do not tamper with, plagarize, make up, or omit data.
+* Come to individual and project-specific meetings with an agenda
 * Treat others how you want to be treated. Respect your fellow lab mates' strengths and weaknesses, respect their desire for quiet if they need it and support when they want it. Respect their culture, religion, their beliefs, their sexual orientation, and any other part of their identity. 
 * If you are struggling, tell someone. Your health and happiness comes first. We can't do good and just science without taking breaks and recharging. 
 * If there is any tension of hostility in the lab, address it immediately. We cannot thrive in an environment that we are not comfortable in; hostility and disrespect will not be tolerated. If you don't feel comfortable confronting the person in question, tell Dr. Gard. Tell Dr. Gard or a lab manager in any case.
@@ -34,10 +35,9 @@ All of the "everyone" expectations above as well as:
 All of the "everyone" expectations above as well as:
 * Think critically about what you want for your career (academia – research or teaching, industry, policy, clinical practice or hospital-based work). It is never too early to start discussing this with Dr. Gard so that we can make sure you are getting the types of training you need.  
 * Become an expert in a well-defined research area. Dr. Gard will work with you to identify 2-3 research areas of interest. Based on the lab's foci, one of these research areas will likely be a bio modality (e.g., epigenetic methylation, functional MRI, stress physiology). By the time you leave UMD, you will know more about these topics than Dr. Gard (this is how it should be!). This requires you to take ownership of your expertise - strategize with Dr. Gard, other mentors, and your lab-mates about how to build this knowledge. 
-* Use existing secondary data for some of your projects. Why do we use secondary data? Brilliant researchers before us have spent years collecting large, statistically well-powered datasets; individuals and families have donated their time to make this research possible; funding organizations have supported this research financially. By utilizing secondary datasets, we are acknowledging these enormous efforts. The GARD Lab engages in a mix of primary data collection and secondary data analysis; your research activities should reflect this. All submitted papers using secondary data will be accompanied by a replication package.     
-* Document your work. Every project/paper you work on should be accompanied by an activity log, which includes things like analytic decisions, filenames and paths, and meeting notes. Every time you write or modify a script, develop a protocol, or identify a resource, document it! This type of information can be thought of as "lab knowledge"; documentation ensures that we don't repeat our hard work unnecessarily.  
-* Follow the scientist-mentor model. As you know from the application process, prospective students are accepted into the program to work with one primary faculty mentor. Your mentor is intended to guide you through the program and, as such, is required to "sign-off" on most department-related decisions. Thus, consult with Dr. Gard often about anything from course selection, research activities, desired training, etc. 
-* Come to individual meetings with an agenda
+* Use existing secondary data for some of your projects. Why do we use secondary data? Brilliant researchers before us have spent years collecting large, statistically well-powered datasets; individuals and families have donated their time to make this research possible; funding organizations have supported this research financially. By utilizing secondary datasets, we are acknowledging these enormous efforts. The GARD Lab engages in a mix of primary data collection and secondary data analysis; your research activities should reflect this.      
+* Document your work. Every time you write or modify a script, develop a protocol, or identify a resource, document it! This type of information can be thought of as "lab knowledge"; documentation ensures that we don't repeat ourselves. 
+* Follow the scientist-mentor model. As you know from the application process, prospective students are accepted into the program to work with one primary faculty mentor. Your mentor is intended to guide you through the program and is required to "sign-off" on most department-related decisions. Thus, consult with Dr. Gard often about anything from course selection, research activities, desired training, etc. 
 * Collect data for the ongoing projects in the lab, which includes any major group projects.
 * Take an active role in protocol and research project development. If you see a more efficient way to accomplish a task, bring your ideas "to the table". 
 * Make sure you meet all departmental and external lab deadlines (e.g., exams, thesis, grant applications) – and make sure Dr. Gard is aware of them!
@@ -47,16 +47,15 @@ All of the "everyone" expectations above as well as:
 
 ### Lab Staff 
 All of the "everyone" expectations above as well as:
-* Document your work. Every time you write or modify a script, develop a protocol, or identify a resource, document it! This type of information can be thought of as "lab knowledge"; documentation ensures that we don't repeat our hard work unnecessarily.
-* Come to individual and project-specific meetings with an agenda
+* Document your work. Every time you write or modify a script, develop a protocol, or identify a resource, document it! This type of information can be thought of as "lab knowledge"; documentation ensures that we don't repeat ourselves.
 * Take notes in meetings and generate to-do lists. Consult with Dr. Gard and senior staff members to generate appropriate deadlines. 
 * Collect data for ongoing projects in the lab.
 * Take an active role in protocol and research project development. If you see a more efficient way to accomplish a task, bring your ideas to the "table".
 * Help mentor undergraduate students in the lab. Oftentimes, an undegraduate student will be helping you with your job responsibilites. When you are the day-to-day mentor, you are responsible for communicating your expectations, project goals, etc.
-* Develop your own research project using an existing dataset. In general, staff are protected ~1 day/week to work on their own project. This is unlikely to be "enough" time to see a paper through to completion. Thus, depending on your own goals, you will have to work on your paper on your own time in addition to during protected lab time. All submitted papers using secondary data will be accompanied by a replication package.     
+* Develop your own research project using an existing dataset. In general, staff are protected ~1 day/week to work on their own project. This is unlikely to be "enough" time to see a paper through to completion. Thus, depending on your own goals, you will have to work on your paper on your own time in addition to during protected lab time.
 * Flexibly adapt to weekly needs. Although your tasks will be predictable most of the time, things may come up that need attention immediately. Adjust your expectations accordingly. If someone in the lab or an external collaborator is expecting something of you, communicate an updated due date.
 * Log your hours each week by task and/or project. This will guide our expectations for how much time things take to complete.
-* Be available on the weekends for project data collection and/or outreach. These hours will be deducted from your M-F schedule (e.g., Monday off, work on Saturday). 
+* Be available on the weekends for project data collection and/or outreach. These hours will be deducted from your M-F schedule (e.g., work on Saturday, Monday off). 
 * Update your weekend avilability at the beginning of the semester and anytime scheduling conflicts arise.
 
 ### Undergraduate Research Assistants 
@@ -69,7 +68,6 @@ All of the above, as well as:
 * If you need something signed or written from Dr. Gard or another senior staff member, give at least 2 weeks lead-time. 
 
 ## Code of Conduct
-
 The University of Maryland maintains a Code of Conduct for students (https://studentconduct.umd.edu/home/current-students) and staff/faculty (https://studentconduct.umd.edu/home/faculty-staff). This code of conduct pertains to both academic and non-academic misconduct. In addition, the University and the GARD Lab are committed to maintaining a working and learning environment free from sexual misconduct and discrimination; policies and procedures have been developed by the Office of Civil Rights and Sexual Misconduct (https://ocrsm.umd.edu/). At the broadest level, the following classes of behaviors are prohibited:
 
 **Discrimination** is unequal treatment based on a legally protected status that is serious enough to unreasonably interfere with or limit an individual’s ability to participate in or benefit from a University program or activity, or that otherwise negatively affects a term or condition of the individual’s employment or education.
@@ -81,8 +79,16 @@ The University of Maryland maintains a Code of Conduct for students (https://stu
 **Sexual Harassment, Other Sexual Misconduct, and Retaliation** may occur between strangers or acquaintances, including people involved in an intimate or sexual relationship. Prohibited Conduct can be committed by any person, regardless of gender identity, and can occur between people of the same or different sex, sexual orientation, or gender expression. 
 
 ### Scientific Integrity
+#### Open Science
+The GARD Lab at UMD is committed to producing high-quality reproducible research. We should be able to give our data and code to another researcher to replicate our results. This practice is NOT intended to "catch" bad actors, but to make sure our research findings are reliable. "Open Science" practices are essential to reproducability.
 
-### Human Subjects Research
+One component is documenting everything. Every paper you work on should be accompanied by an activity log, which includes things like analytic decisions, filenames and paths, and meeting notes. Analytic code should also be commented clearly. We all know what it’s like to sit down, quickly write a bunch of code to run an analysis without taking time to comment it, and then having no idea what we did a few months down the road. Comment your code so that every step is understandable by an outsider. Use some form of version control (e.g., Git in combination with GitHub) to keep track of what code changes you made and when you made them, as well as sharing code with others.
+
+Another component is constructing "replication packages". For any publically-availble datasets or data that we can release to the world, your paper needs to be accompanied by a replication package. The lab uses R, so your replication package will be in the form of a script or set of scripts. Your code should include any pacakges that are needed to process and analyze the data, and guided comments (as noted above). The GARD Lab data manager or another graduate student working with the same dataset will test your replication pacakge. At the time of paper submission, you will post your replication pacakge to your OSF site (and tag Dr. Gard and other collaborators). 
+
+#### Authorship
+Authorship is an important part of research and should be determined at the beginning of a project. Like other labs, we follow authorship guidelines as noted by the APA:
+>“Authorship credit should reflect the individual’s contribution to the study. An author is considered anyone involved with initial research design, data collection and analysis, manuscript drafting, and final approval. However, the following do not necessarily qualify for authorship: providing funding or resources, mentorship, or   contributing research but not helping with the publication itself. The primary author assumes responsibility for the publication, making sure that the data are accurate, that all deserving authors have been credited, that all authors have given their approval to the final draft; and handles responses to inquiries after the manuscript is published.”
 
 ### General Lab Policies
 There are a few day-to-day things to keep in mind to ensure the lab runs smoothly
@@ -104,7 +110,6 @@ There are a few day-to-day things to keep in mind to ensure the lab runs smoothl
 
 #### Outreach and Service
 
-#### Open Science
 
 
 
