@@ -124,11 +124,8 @@ Each of us has different working hours. Sometimes Dr. Gard works late at night o
 * Whether you are or are not physically in the lab space, you are expected to be present on Slack during your "research hours" on weekdays.
 * Use meetings and electronic communication efficiently. If you have a question that could wait for a project meeting or your individual meeting, save it. If you need advice or help immediately, send an email or Slack message. 
 
-#### Outreach and Service
+### Outreach and Service
+In addition to producing high-quality research that advocates for environmental equity and healthy child development, the GARD Lab is committed to these goals through service and outreach in our local community. Research Staff in the lab are responsible for organizing events in Prince George's county and DC, but all lab members are expected to participate in outreach events 1-2 times per semester. Appropriate dress code and behavior is expected at outreach events as during data collection. Lastly, some undergraduate RAs will be work on public science blogs on topics of their choosing (check out our first series on environmental toxins and child development: http://gardlab.umd.edu/blog/). 
 
 
-
-
-
-* Complete a semester expectations document at the beginning of each semester. In this document, you will outline how many hours per week you intend to work and when, your training goals, your preferred gender pronouns, and any dietary restrictions (yes, events involving food will occur). 
-* Complete a semester review form at the end of each semester. In this document, you will work with Dr. Gard to gauge your progress and provide feedback on lab activities and culture. 
+If you have read this lab policies document in full, please complete the lab policies acknowledgment form (located in the github manuals repository). Follow the instructions on the form.
