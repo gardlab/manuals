@@ -108,8 +108,9 @@ There are a few day-to-day things to keep in mind to ensure the lab runs smoothl
 * Make sure the door to the lab is locked if no one is inside. Turn off the lights if you are the last one leaving for the day
 * Keep the lab tidy. Eating in the lab is fine, but clean up food waste, crumbs, and spills. Put lab equipment back where you found it. Keep common areas uncluttered. Disinfect surface that you use before you leave
 * Be on time. Respect everyone's (peers, participants, PI) time. 
-* Come to meetings with Dr. Gard with an agenda. 
+* Come to individual meetings with Dr. Gard with an agenda. 
 * Dress code is casual. You can dress up if you want; you can wear jeans; you can wear workout clothes. On visit with participants or when presenting your work, keep it professional, keep it classy (this doesn't mean suits and ties!). 
+* Give Dr. Gard, collaborators, and lab-mates 2-3 weeks lead-time on most deadlines (e.g., conference abstracts, revise & resubmit paper revisions, thesis/dissertation drafts, rec letters). For quick forms that Dr. Gard needs to fill out, 1 week is fine. 
 
 #### Hours and Working in the Lab
 Being physically present in the lab is important. In lab you can learn from others, help others, have fast and easy access to resources (and people), and build networks with your peers and senior colleagues. While hours in academia are generally more flexible than other jobs, you should still treat it like a job. That means working 40+ hours a week if you are a full-time staff member or graduate student. You can work from home, but not all the time, and you need to show up for all your meetings. To encourage lab interaction, try to be in lab 3-5 days per week during ‘peak’ hours (assuming no other obligations) – e.g., between 11am and 4pm. 
