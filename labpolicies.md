@@ -15,7 +15,6 @@ Science is hard. Sometimes really hard. Whether you are an undergraduate student
 * Do not rush your work. Plan out your tasks. Double-check and triple-check your work
 * Ask for help. Never be embarassed to ask for what you need - whether this is another set of eyes on a piece of code or data, an extension on a deadline, time to think, etc.
 * Do not tamper with, plagarize, make up, or omit data.
-* Come to individual and project-specific meetings with an agenda
 * Treat others how you want to be treated. Respect your fellow lab mates' strengths and weaknesses, respect their desire for quiet if they need it and support when they want it. Respect their culture, religion, their beliefs, their sexual orientation, and any other part of their identity. 
 * If you are struggling, tell someone. Your health and happiness comes first. We can't do good and just science without taking breaks and recharging. 
 * If there is any tension of hostility in the lab, address it immediately. We cannot thrive in an environment that we are not comfortable in; hostility and disrespect will not be tolerated. If you don't feel comfortable confronting the person in question, tell Dr. Gard. Tell Dr. Gard or a lab manager in any case.
