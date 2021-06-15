@@ -90,6 +90,17 @@ Another component is constructing "replication packages". For any publically-ava
 Authorship is an important part of research and should be determined at the beginning of a project. Like other labs, we follow authorship guidelines as noted by the APA:
 >“Authorship credit should reflect the individual’s contribution to the study. An author is considered anyone involved with initial research design, data collection and analysis, manuscript drafting, and final approval. However, the following do not necessarily qualify for authorship: providing funding or resources, mentorship, or   contributing research but not helping with the publication itself. The primary author assumes responsibility for the publication, making sure that the data are accurate, that all deserving authors have been credited, that all authors have given their approval to the final draft; and handles responses to inquiries after the manuscript is published.”
 
+At the start of a new project, the trainee who is driving the paper can expect to be the first author. Dr. Gard will be the senior (i.e., last) author. Students and post-docs who help over the course of the project may also be "middle authors", depending on their contributions; the positioning of non-primary and non-senior authors will be decided when the paper is in the write-up phase. If a trainee takes on a project but subsequently hands it off to someone else, they will most likely be handing over first-authorship too (they may also be co-first author, if that is appropriate). All of these issues are open to discussion. 
+
+### Human Subjects Research
+Adherence to approved IRB protocols is essential, and non-adherence can lead to severe consequences for the entire lab (i.e., we may lose permission to run any research on human participants). Part of respecting our participants means that we must strictly adhere to the IRB protocol for each project. All lab members must read the IRB protocol and consent forms for any project that they are working on. This is also a great way to familiarize yourself with project, and you are also welcome to read the IRB protocols of other projects in the lab that you are not working on to learn more about them. If you are not on the IRB, you cannot run participants, look at the data, analyze the data, or be in any way involved with the project.
+
+Lab members must complete the appropriate training in Human Research that is specified by the specific IRB protocols they are listed in. Speak to one of the lab staff about the specifics of the IRB protocols you will be listed on and the training you have to do for them, as well as how to access and document the training.
+
+If you are starting your own project, you will be expected to write your own IRB protocol (see Dr. Gard and your lab manager for help). If you are starting a study that sits within an existing project, you will be expected to write an amendment to that project’s IRB protocol. If you are working on an existing project, you will need to have your name added to that project’s IRB protocol. You must ensure that you have IRB approval before collecting, looking at, or manipulating data from human subjects.
+
+Part of the training in Human Subjects research will involve reporting of incidental or unexpected events. If a participant falls ill, becomes very upset, has an accident with the lab equipment, is injured, or otherwise adversely affected by participating in the study, tell Dr. Gard so that we can report this information to the IRB and/or specific funding agencies.
+
 ### General Lab Policies
 There are a few day-to-day things to keep in mind to ensure the lab runs smoothly
 * If you are sick, stay home and take care of yourself. If you are sick, reschedule your meetings as soon as you can
@@ -99,14 +110,19 @@ There are a few day-to-day things to keep in mind to ensure the lab runs smoothl
 * Keep the lab tidy. Eating in the lab is fine, but clean up food waste, crumbs, and spills. Put lab equipment back where you found it. Keep common areas uncluttered. Disinfect surface that you use before you leave
 * Be on time. Respect everyone's (peers, participants, PI) time. 
 * Come to meetings with Dr. Gard with an agenda. 
-* Dress code is casual. You can dress up if you want; you can wear jeans; you can wear workout clothes. On visit with participants or when presenting your work, keep it professional, keep it classy. This doesn't mean suits and ties; this does mean wearing outfits that don't risk making someone feel uncomfortable. 
+* Dress code is casual. You can dress up if you want; you can wear jeans; you can wear workout clothes. On visit with participants or when presenting your work, keep it professional, keep it classy (this doesn't mean suits and ties!). 
 
 #### Hours and Working in the Lab
+Being physically present in the lab is important. In lab you can learn from others, help others, have fast and easy access to resources (and people), and build networks with your peers and senior colleagues. While hours in academia are generally more flexible than other jobs, you should still treat it like a job. That means working 40+ hours a week if you are a full-time staff member or graduate student. You can work from home, but not all the time, and you need to show up for all your meetings. To encourage lab interaction, try to be in lab 3-5 days per week during ‘peak’ hours (assuming no other obligations) – e.g., between 11am and 4pm. 
+
+The only exceptions to these flexible work hours are research staff, who must keep regular hours and be in lab 5 days a week. I expect staff to be in about 8 hours a day, starting around 9am or 10am and ending around 5pm or 6pm. As discussed above, if you are running research participants on the weekends or after hours, I am OK with you coming/leaving earlier on other days of the week to compensate (another reason to document how you spend your time).
+
+Each of us has different working hours. Sometimes Dr. Gard works late at night or early in the morning. So, you may get emails or slack messages at weird hours (and vice versa). Please respect yourself and other people’s quirks – if you are not working, don’t check email or slack, and don’t feel pressured to respond outside of your working hours.
 
 #### Communication
-
-* Answer emails within 24 hours on weekdays. 
-* If you are working on a shared project in Slack, respond to Slack messages within 24 hours on weekdays.
+* Answer emails and Slack messages within 24-48 hours on weekdays. 
+* Whether you are or are not physically in the lab space, you are expected to be present on Slack during your "research hours" on weekdays.
+* Use meetings and electronic communication efficiently. If you have a question that could wait for a project meeting or your individual meeting, save it. If you need advice or help immediately, send an email or Slack message. 
 
 #### Outreach and Service
 
