@@ -34,15 +34,22 @@ The following are tools that the lab uses to run smoothly. All lab members are e
     * The lab manager or Dr. Gard will add you to the GARD Lab box folder - remind them if they don't!
     * Since we are a new lab, we don't yet have a file organization system for our Box account. We will develop a protocol together.
     * You should never store data on your personal computer. This is what the desktop version of Box is for. Map your scripts to the datafiles located on box or the shared server drive (more soon on that)
- * **Gard Lab Server** In collaboration with Dr. Lea Dougherty, Dr. Gard has purchased a remote linux server. All senior staff and UGs working on relevant projects need access. The server is named "basil" because herbs are the best. Future servers will be also be named in the herb family - Dr. Gard is partial to rosemary and chives, but TBD. 
+ * **Gard Lab Server** In collaboration with Dr. Lea Dougherty, Dr. Gard has purchased a remote linux server. All senior staff and UGs working on relevant projects need access. The server is named "basil" because herbs are the best. Future servers will be also be named in the herb family - Dr. Gard is partial to rosemary and chives, but TBD.
+   * The broadest file structure for the server is as follows:
+```
+/software/basil ## This space is meant as a shared software directory where you can install software packages away from the data.
+/data/basil/gard ## This space is meant to store GARD Lab data only
+/data/basil/shared ## This space is meant to store ABCD imaging data
+/data/basil/dougherty ## This space is meant to store Dougherty lab data only
+```
    * To obtain server access:
       1. Create a Glue/TerpConnect account [here](https://cgi.oit.umd.edu/cgi-bin/account/activation.cgi). Select the TerpConnect service (may already be selected) and click the 'Submit' button.  The account should be created in a day or so. 
       2. The data manager or Dr. Gard will grant access to the machine (basil.umd.edu) by emailing Prasad Dharmasena (pkd@umd.edu)
       3. You will also need several programs to access the server
             1. The UMD VPN Client. When you are off-campus, you will need to use a "virtual private network" or VPN to access the server. This does not apply if you are working in the lab or on campus. You should NEVER connect to ther server using public wifi (e.g., Starbucks). Go [here](https://it.umd.edu/spotlight/connections/what-vpn) to download the UMD VPN Client and learn more: 
             2. A Secure Shell (SSH) Client. Be sure to allow ‘X11 forwarding’ in the settings if you need to display graphics from the server on your local screen. For PCs, download PuTTY [here](https://www.putty.org/). MACs have a built-in SSH Client, which you can access through terminal (Finder --> Utilities --> Terminal). The hostname is basil.umd.edu and the login credentials are your UMD Directory ID/password.
-            4. Mounting the server drive onto a local computer (either your own or in the lab), via SMB. 
-
+            4. Mounting the server drive onto a local computer (either your own or in the lab) via SMB/Samba access: This allows you to mount the same filesystems as network drives on your Windows/Mac machines. You need to use your operating system’s “map a network drive” (or similar wording) methods to access. The hostname is basil.umd.edu and the login credentials are your Directory ID and the samba password I’ve saved in a text file in your Glue account (in ~/basil/samba-pw file). Please use the above SSH method to login and retrieve that password.
+        
 ## Trainings (for everyone)
 All of the following at trainings that must be completed before you start working in the lab. In some cases, you will attend a lab-wide training during your first semester in the GARD Lab.
 *  **UMD History** The African American History and Landmarks at UMD Tour. In-person where possible. https://bsos.umd.edu/diversity/african-american-history-and
