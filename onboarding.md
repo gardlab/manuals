@@ -65,6 +65,9 @@ There are several major research areas that the lab tackles. Each method/approac
 * **Linux bash command line** - most folks in the lab need to learn how to navigate in the command line environment. Our server, basil, is best accessed from a SSH client. Below are a few resources that will give you a basic introduction to linux command line. If you find a resource that you like, please add it here with some notes about how it is different/better/more fun than those listed below! 
    * https://linuxcommand.org/
    * https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
+   * https://hrs.isr.umich.edu/genomics-workshop/online-video-modules (a couple introductory videos from my collaborator at Michigan)
 * **fMRI** - functional MRI is a major focus on the lab. There are several parallels in working with task-based and resting-state fMRI data, but also several differences. Graduate students with a focus on fMRI research should intend to take Dr. Luis Pessoa's NACS course "Introduction to Functional Magnetic Resonance Imaging". In addition, there are several online courses that can be incredibly helpful, some geared towards different packages. Check in with Dr. Gard to see which courses/trainings you should take:
    * Andy Jahn's Brain Book: https://andysbrainbook.readthedocs.io/en/latest/
+* **Epigenetics and Genetics**
+   * Genomics for Social Scientists at University of Michigan, Ann Arbor (https://hrs.isr.umich.edu/genomics-workshop). There are two 1-week workshops offerred by my collaborators (and former mentors) at the Institute for Social Research at UMICH. There is a 1-week course on genomic data in June, and another 1-week workshop in using epigenetic data in January. There is an application. Talk to Dr. Gard for more information!
 
