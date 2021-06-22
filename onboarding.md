@@ -54,7 +54,7 @@ The following are tools that the lab uses to run smoothly. All lab members are e
 All of the following at trainings that must be completed before you start working in the lab. In some cases, you will attend a lab-wide training during your first semester in the GARD Lab.
 *  **UMD History** The African American History and Landmarks at UMD Tour. In-person where possible. https://bsos.umd.edu/diversity/african-american-history-and
 *  **Diversity, Equity, and Inclusion Training** Lab Staff request annual training for the lab through the UMD Office of Diversity and Inclusion [here](https://diversity.umd.edu/training-education/diversity-training/)
-*  **Human Subjects Research** All lab members working on a research project must complete [IRB training] (https://research.umd.edu/irbtraining). This includes (a) CITI (Collaborative Institutional Training Initiative) Training, and (b) HIPAA (Health Insurance Portability and Accountability Act of 1996) Training. 
+*  **Human Subjects Research** All lab members working on a research project must complete [IRB training](https://research.umd.edu/irbtraining). This includes (a) CITI (Collaborative Institutional Training Initiative) Training, and (b) HIPAA (Health Insurance Portability and Accountability Act of 1996) Training. 
 
 ## Trainings (for some)
 There are several major research areas that the lab tackles. Each method/approach requires heavy investment - this is why we specialize! You can't know everything - we collaborate with other experts while you become an expert in 1-2 well-defined methods/approaches. 
