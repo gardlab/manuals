@@ -79,7 +79,7 @@ There are several major research areas that the lab tackles. Each method/approac
    * fMRIprep: https://github.com/nipreps/fmriprep
    * Mumford Brain Stats (fMRI help): https://mumfordbrainstats.tumblr.com/
    * fMRI power calculation options: (1) https://jeanettemumford.org/fmripower/ (2) http://neuropowertools.org/
-   * list of summer schools in neuroscience and related fields: https://github.com/PhABC/neuroSummerSchools
+   * List of summer schools in neuroscience and related fields: https://github.com/PhABC/neuroSummerSchools
 * **R Statistical Software** - one of the most flexible (and free!) statistical software packages available is R. There is an incredible online support system and resources for statistical analysis and data visualization within R. Using R further allows the lab to engage in reproducible open science practices. But absolutely the learning curve can be steep. In addition to learning what statistical tools are at your disposal, the assumptions of each tool, and the theory behind it, you have to figure out *how* to implement said tool/approach in R. All trainees working on a project that involves data analysis needs to learn the basics of R. For graduate students, you will get some of this training in your first year stats courses and in subsequent stats courses that are germaine to your research program. But here are some helpful resources for R newbies and experts alike:
    * Introduction to R (a free book): https://moderndive.com/
    * R for Data Science (another free book): https://r4ds.had.co.nz/
@@ -87,6 +87,8 @@ There are several major research areas that the lab tackles. Each method/approac
    * Quick-R (includes tutorial, data management tips, basic stats approaches): https://www.statmethods.net/
    * Hierarchical Linear Modeling and other advanced methods: http://www.r-tutor.com/
    * Linear Mixed Models: https://gkhajduk.github.io/2017-03-09-mixed-models/
+* **Stats Resources More Generally**
+* 
 * **Epigenetics and Genetics**
    * Genomics for Social Scientists at University of Michigan, Ann Arbor (https://hrs.isr.umich.edu/genomics-workshop). There are two 1-week workshops offerred by my collaborators (and former mentors) at the Institute for Social Research at UMICH. There is a 1-week course on genomic data in June, and another 1-week workshop in using epigenetic data in January. There is an application. Talk to Dr. Gard for more information!
 
