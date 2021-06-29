@@ -28,6 +28,7 @@ The following are tools that the lab uses to run smoothly. All lab members are e
     * Undergraduate Tasks
     * Website: How-to document for making changes to the website. Content that needs to be (or is already) uploaded to the website.
     * Note that Google Drive works well when you download the desktop version so it syncs between the cloud and your local computer. 
+    * Note Note - Google Drive through UMD is NOT HIPAA-compliant. That means that data of any kind (with or withour personal protected information) should not be stored here! 
  * **UMD Box** UMD Box is HIPAA-compliant and can be used to store data with and without personal protected information. Box should also be used to store scripts, stimuli, and code that hasn't been "vetted" before it is posted to github. UMD has also made Box storage unlimited. So go wild. 
     * Box works best when you download the desktop version so it syncs between the cloud and your local computer. 
     * Log-in using your UMD email account [here](https://umd.account.box.com/login)
