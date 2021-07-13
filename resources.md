@@ -30,7 +30,7 @@ There are several major research areas that the lab tackles. Each method/approac
    * SPM12 Manual: https://www.fil.ion.ucl.ac.uk/spm/doc/manual.pdf
    * fMRI basics, talk by Rebecca Saxe: https://www.youtube.com/watch?v=yA65FuSpOMs
    * Huettel, S. A., Song, A.W., & McCarthy, G. (2008). Functional Magnetic Resonance Imaging (2nd edition). Sinauer Associates, Inc: Sunderland, Massachusetts, USA.
-   * Poldrack, Russell A. Mumford, Jeanette A. Nichols, Thomas E. Handbook of functional MRI data analysis. 2011
+   * Poldrack, Russell A. Mumford, Jeanette A. Nichols, Thomas E. Handbook of functional MRI data analysis. 2011 --> it looks like there is a free PDF copy of this book posted [here](http://www.leixulab.net/paper/2011HandbookfMRI.pdf)
    * BIDS: https://bids.neuroimaging.io/
    * fMRIprep: https://github.com/nipreps/fmriprep
    * Mumford Brain Stats (fMRI help): https://mumfordbrainstats.tumblr.com/
