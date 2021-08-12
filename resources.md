@@ -40,6 +40,7 @@ There are several major research areas that the lab tackles. Each method/approac
    * Introduction to R (a free book): https://moderndive.com/
    * R for Data Science (another free book): https://r4ds.had.co.nz/
    * Introductory R course through DataCamp: https://www.datacamp.com/courses/free-introduction-to-r
+      *This course is only free for the first few modules, FYI!
    * Quick-R (includes tutorial, data management tips, basic stats approaches): https://www.statmethods.net/
    * Hierarchical Linear Modeling and other advanced methods: http://www.r-tutor.com/
    * Linear Mixed Models: https://gkhajduk.github.io/2017-03-09-mixed-models/
