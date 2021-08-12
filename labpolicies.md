@@ -62,9 +62,11 @@ All of the above, as well as:
 * Work in the lab for 2 semesters or more. This policy is important for ensuring that undergraduate RAs have enough time to master a skill (e.g., coding videos, running a data collection protocol, quality control of brain images) and to build effective lab relationships. It is hard to get to know someone in a 3-4 month period!
 * There are no volunteer positions in the Gard Lab. We believe that all research assistants (at every level) should be compensated for their time. Compensation may be in the form of course credit through Psych 478 or hourly pay. In general, your first semester in the lab will be for course credit. Pending satisfactory performance, your second semester and beyond will be for hourly pay at $15/hour. If you took a course with Dr. Gard, she may be able to waive the first semester of course credit. 
 * Update the avilability calendar at the beginning of the semester and anytime scheduling conflicts arise. Log your hours each week. 
+* Please document your time and activities in the lab using the following google sheets link. Please make sure to click 'Add Sheet' on the bottom left corner, rename it using your name, and use the formatting as indicated on the first page. https://docs.google.com/spreadsheets/d/1tHCL-efrnq23RVGnMokstcMPDnwtrsAea8mfSCvm4wk/edit?usp=sharing
 * Attend lab meetings and project-specific undergraduate meetings (when scheduled). Be on time and come prepared!
 * If you have a question, ask one of your peer undergraduate RAs before asking senior staff. 
 * If you need something signed or written from Dr. Gard or another senior staff member, give at least 2 weeks lead-time. 
+
 
 ## Code of Conduct
 The University of Maryland maintains a Code of Conduct for students (https://studentconduct.umd.edu/home/current-students) and staff/faculty (https://studentconduct.umd.edu/home/faculty-staff). This code of conduct pertains to both academic and non-academic misconduct. In addition, the University and the GARD Lab are committed to maintaining a working and learning environment free from sexual misconduct and discrimination; policies and procedures have been developed by the Office of Civil Rights and Sexual Misconduct (https://ocrsm.umd.edu/). At the broadest level, the following classes of behaviors are prohibited:
