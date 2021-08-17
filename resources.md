@@ -47,3 +47,6 @@ There are several major research areas that the lab tackles. Each method/approac
 * **Stats Resources More Generally** (coming soon)
 * **Epigenetics and Genetics**
    * Genomics for Social Scientists at University of Michigan, Ann Arbor (https://hrs.isr.umich.edu/genomics-workshop). There are two 1-week workshops offerred by my collaborators (and former mentors) at the Institute for Social Research at UMICH. There is a 1-week course on genomic data in June, and another 1-week workshop in using epigenetic data in January. There is an application. Talk to Dr. Gard for more information!
+* **Git / Github** - if you are unfamiliar with how to use git or github, here are some resources to get you started:
+  * How to install Git onto your workspace: https://www.atlassian.com/git/tutorials/install-git#windows
+  * Basics on how to use Git / Github: https://www.youtube.com/watch?v=RGOj5yH7evk
