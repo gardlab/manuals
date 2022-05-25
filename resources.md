@@ -45,6 +45,11 @@ There are several major research areas that the lab tackles. Each method/approac
    * Hierarchical Linear Modeling and other advanced methods: http://www.r-tutor.com/
    * Linear Mixed Models: https://gkhajduk.github.io/2017-03-09-mixed-models/
    * Tips for data visualization in R: https://github.com/rstudio/cheatsheets/blob/main/data-visualization-2.1.pdf
+* **Matlab** 
+   * MATLAB Intro:  https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted
+   * MATLAB Intro Course: https://www.coursera.org/learn/matlab
+   * Intro Courses and Tutorials: https://www.udemy.com/topic/matlab/free/
+   * List of outher sources: https://www.analyticsvidhya.com/resources-learn-matlab-programming/
 * **Stats Resources More Generally** (coming soon)
 * **Epigenetics and Genetics**
    * Genomics for Social Scientists at University of Michigan, Ann Arbor (https://hrs.isr.umich.edu/genomics-workshop). There are two 1-week workshops offerred by my collaborators (and former mentors) at the Institute for Social Research at UMICH. There is a 1-week course on genomic data in June, and another 1-week workshop in using epigenetic data in January. There is an application. Talk to Dr. Gard for more information!
