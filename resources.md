@@ -56,3 +56,6 @@ There are several major research areas that the lab tackles. Each method/approac
 * **Git / Github** - if you are unfamiliar with how to use git or github, here are some resources to get you started:
   * How to install Git onto your workspace: https://www.atlassian.com/git/tutorials/install-git#windows
   * Basics on how to use Git / Github: https://www.youtube.com/watch?v=RGOj5yH7evk
+
+* **Figures for Posters and Presentations** 
+  *https://biorender.com/poster-builder
