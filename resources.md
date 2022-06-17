@@ -58,4 +58,4 @@ There are several major research areas that the lab tackles. Each method/approac
   * Basics on how to use Git / Github: https://www.youtube.com/watch?v=RGOj5yH7evk
 
 * **Figures for Posters and Presentations** 
-  *https://biorender.com/poster-builder
+  * https://biorender.com/poster-builder
