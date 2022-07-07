@@ -45,6 +45,7 @@ There are several major research areas that the lab tackles. Each method/approac
    * Hierarchical Linear Modeling and other advanced methods: http://www.r-tutor.com/
    * Linear Mixed Models: https://gkhajduk.github.io/2017-03-09-mixed-models/
    * Tips for data visualization in R: https://github.com/rstudio/cheatsheets/blob/main/data-visualization-2.1.pdf
+   * Intro to R through Columbia: https://columbia-sipps.github.io/workshops/coding/
 * **Matlab** 
    * MATLAB Intro:  https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted
    * MATLAB Intro Course: https://www.coursera.org/learn/matlab
