@@ -1,4 +1,5 @@
 # Welcome to the Growth And Resilience across Development (GARD) Lab!
+(documented prepared by Dr. Gard)
 
 Welcome to the GARD Lab! Effective research is done in teams, so we are always pumped about new adding new team members! This manual outlines expectations for all lab members, a code of conduct, and general lab policies. If you are new to the GARD Lab, read through the entire lab manual. Contact Dr. Gard with any questions, concerns, or suggestions for making our lab manual more accessible (there is always room to grow!). 
 
@@ -24,10 +25,10 @@ Science is hard. Sometimes really hard. Whether you are an undergraduate student
 
 ### Principle Investigator
 All of the "everyone" expectations above as well as:
+* Guide the research program in the lab. 
 * Support you in your training and career choices (e.g., by introducing you to other researchers in the field, promoting your work at talks, writing recommendation letters for you, and supporting your attendence conferences). Whether you aim to land a position in an academic setting, policy or government agency, private practice, nonprofit institution, etc. - your life, your choices. Dr. Gard's job is to make sure you have the support that you need to thrive.
 * Provide feedback on trainee papers, grant proposals, or anything else you need within 2 weeks. 
 * Be available in person and/or on slack during weekday business hours, and be available for regular trainee-mentee meetings
-* Guide the research program in the lab. Adapt lab priorities to reflect trainee interests. 
 * Write grants to support research and trainees.
 * Prepare agenda items for lab meetings and organize lab trainings when needed (e.g., factor analysis; fMRI image processing) 
 
@@ -38,10 +39,11 @@ All of the "everyone" expectations above as well as:
 * Use existing secondary data for some of your projects. Why do we use secondary data? Brilliant researchers before us have spent years collecting large, statistically well-powered datasets; individuals and families have donated their time to make this research possible; funding organizations have supported this research financially. By utilizing secondary datasets, we are acknowledging these enormous efforts. The GARD Lab engages in a mix of primary data collection and secondary data analysis; your research activities should reflect this.      
 * Document your work. Every time you write or modify a script, develop a protocol, or identify a resource, document it! This type of information can be thought of as "lab knowledge"; documentation ensures that we don't repeat ourselves. 
 * Follow the scientist-mentor model. As you know from the application process, prospective students are accepted into the program to work with one primary faculty mentor. Your mentor is intended to guide you through the program and is required to "sign-off" on most department-related decisions. Thus, consult with Dr. Gard often about anything from course selection, research activities, desired training, etc. 
-* Collect data for the ongoing projects in the lab, which includes any major group projects.
+* Related to the scientist-mentor model, the topic and scope of your first 1-2 manuscripts in the lab will be guided by Dr. Gard. This will be informed by your topical interests. As you develop as a scholar (both in terms of your interests and expertise), you will begin to develop your own paper ideas independently. 
+* Contribute to ongoing projects in the lab. This may mean collecting and/or analyzing data. Every effort will be made to have these activities overlap with the your individual projects. 
 * Take an active role in protocol and research project development. If you see a more efficient way to accomplish a task, bring your ideas "to the table". 
 * Make sure you meet all departmental and external lab deadlines (e.g., exams, thesis, grant applications) – and make sure Dr. Gard is aware of them!
-* Help mentor undergraduate students in the lab. Undergraduate students may be paired with a trainee if interests align. Oftentimes, an undegraduate student will be helping your with your project. When you are the day-to-day mentor, you are responsible for communicating your expectations, project goals, etc. 
+* Mentor undergraduate students in the lab. Undergraduate students may be paired with a trainee if interests align (max 1 per semester). Oftentimes, an undegraduate student will be helping your with your project. When you are the day-to-day mentor, you are responsible for communicating your expectations, project goals, etc. You can expect to meet with them one-on-one every other week or so.  
 * Be available 1 weekend per month for project data collection and/or lab outreach. 
 * Update your weekend avilability at the beginning of the semester and anytime scheduling conflicts arise.
 
@@ -115,7 +117,9 @@ There are a few day-to-day things to keep in mind to ensure the lab runs smoothl
 * Give Dr. Gard, collaborators, and lab-mates 2-3 weeks lead-time on most deadlines (e.g., conference abstracts, revise & resubmit paper revisions, thesis/dissertation drafts, rec letters). For quick forms that Dr. Gard needs to fill out, 1 week is fine. 
 
 #### Hours and Working in the Lab
-Being physically present in the lab is important. In lab you can learn from others, help others, have fast and easy access to resources (and people), and build networks with your peers and senior colleagues. While hours in academia are generally more flexible than other jobs, you should still treat it like a job. That means working 40+ hours a week if you are a full-time staff member or graduate student. You can work from home, but not all the time, and you need to show up for all your meetings. To encourage lab interaction, try to be in lab at least 2 days per week during ‘peak’ hours (assuming no other obligations). 
+Being physically present in the lab is important. In lab you can learn from others, help others, have fast and easy access to resources (and people), and build networks with your peers and senior colleagues. While hours in academia are generally more flexible than other jobs, you should still treat it like a job. That means working 40 hours a week if you are a full-time staff member (plus any additional time needed to work on indepedent projects outside of your role responsibilities). 
+
+You can work from home, but not all the time, and you need to show up for all your meetings. To encourage lab interaction, you must in the lab at least 2 days per week during ‘peak’ hours (assuming no other obligations like classes). 
 
 The only exceptions to these flexible work hours are research staff, who must keep regular hours and be in lab 5 days a week. I expect staff to be in about 8 hours a day, starting around 9am or 10am and ending around 5pm or 6pm. When you are working in your own project during protected research time, you can work remotely. However, you still must be available via email/slack. As discussed above, if you are running research participants on the weekends or after hours, I am OK with you coming/leaving earlier on other days of the week to compensate (another reason to document how you spend your time). 
 
