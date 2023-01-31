@@ -74,5 +74,6 @@ Additional Notes:
 * In cases where a contributor changes instituitions, it is their responsibility to provide the first author or senior author with updated contact information. If the contributor cannot be reached within a reasonable amount of time, they forfeit their authorshp. The first author or senior author must may every attempt to notify them.
 * If a contributor leaves UMD but made substantial contributions to a project from which multiple manuscript may arise, they will be included as an author on at least 1 manuscript after their departure. The first or senior author may invite such previous lab affiliates to be manuscript contributors at their discretion. 
 * The point values outlined above are default point values. For any given project, the point values for each contribution may be adjusted depending on how much time each contribution is likely to take, the complexity of the responsibility, etc.
+* The first and last author must decide together on which categories are relevant for a project, and whether the default point value should be adjusted, at the start of the project where possible.  
 
 
