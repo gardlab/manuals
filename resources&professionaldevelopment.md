@@ -1,4 +1,4 @@
-# RESOURCES, RESOURCES, RESOURCES 
+# RESOURCES, RESOURCES, RESOURCES!
 
 There are TONS of resources online and in person that trainees and Dr. Gard have used or heard about. If you find a resource helpful that is not on this list, add it! The purpose of this document is to store all of the information in one central location. Some trainings are required of all lab members; others will only be relevant to some. 
 
@@ -60,3 +60,23 @@ There are several major research areas that the lab tackles. Each method/approac
 
 * **Figures for Posters and Presentations** 
   * https://biorender.com/poster-builder
+
+## Professional Development Resources 
+* **All** 
+   * 1,000 Neuro/Psych Opportunities for High School Students, Undergrads, Post-Baccs, and Graduate Students
+     https://docs.google.com/spreadsheets/d/1mz17sFVws7mXz0JNKQBy-KoAojlp_mkb2tXXQp-MK4M/edit?usp=sharing
+* **Graduate Students** 
+   * **Writing a winning grant application** https://www.insidehighered.com/advice/2022/03/29/specific-steps-take-writing-successful-grant-application-opinion?utm_source=Inside+Higher+Ed&utm_campaign=7a6e663fa3-DNU_2021_COPY_02&utm_medium=email&utm_term=0_1fcbc04421-7a6e663fa3-198585249&mc_cid=7a6e663fa3&mc_eid=bb647accf9
+   *  **Navigating to your dream career- UMD Career Center**
+https://docs.google.com/presentation/d/1Ry8RlkU4RU1sFh45GV_IVx3G4AFBB1sis0ZghnuaFS8/edit#slide=id.g8c3534ab5e_0_634
+   * **Doctoral Career Navigator- UMD**
+https://umd-ucc.catalog.instructure.com/courses/doctoral-navigator
+   * **Pittsburgh Summer Methodology Series**
+Offering differnet study design and quantitative methodology workshops
+https://www.pittmethods.com/
+* **Undergrads** 
+  *  **Applying to Graduate School** https://www.apa.org/education-career/grad/applying
+  *  **Applying to Clinical Psych Programs - info sheets**
+https://docs.google.com/spreadsheets/d/1f6ZyVGn-opa_ijRyntHxfJJkaSNya4h-bwEDeDGInv4/edit?pli=1#gid=798418227
+  *  **How to Interview for Graduate School** chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://motivation.uky.edu/files/2013/09/prinstein-how-to-interview-for-grad-school.pdf
+
