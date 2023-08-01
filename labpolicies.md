@@ -114,7 +114,8 @@ There are a few day-to-day things to keep in mind to ensure the lab runs smoothl
 * Be on time. Respect everyone's (peers, participants, PI) time. 
 * Come to individual meetings with me with an agenda, which you should send ahead of time when possible.
 * Dress code is casual. You can dress up if you want; you can wear jeans; you can wear workout clothes. On visit with participants or when presenting your work, keep it professional, keep it classy (this doesn't mean suits and ties!). 
-* Give me, collaborators, and lab-mates 2-3 weeks lead-time on most deadlines (e.g., conference abstracts, revise & resubmit paper revisions, thesis/dissertation drafts, rec letters). For quick forms that I need to fill out, 1 week is fine. 
+* Give me, collaborators, and lab-mates 2-3 weeks lead-time on most deadlines (e.g., conference abstracts, revise & resubmit paper revisions, thesis/dissertation drafts, rec letters). For quick forms that I need to fill out, 1 week is fine.
+* Any correspondence with community partners and external agencies must be explicitly approved by me. You should send your draft text to me in an email, and I will edit and respond with my approval. The same goes for bulk-email correspondence to participants and community members. 
 
 #### Hours and Working in the Lab
 Being physically present in the lab is important. In lab you can learn from others, help others, have fast and easy access to resources (and people), and build networks with your peers and senior colleagues. Although hours in academia are generally more flexible than other jobs, you should still treat it like a job. That means working 40 hours a week if you are a full-time staff member (plus any additional time needed to work on indepedent projects outside of your role responsibilities). Graduate students can expect to work 40-60 hours/week inclusive of all activities (i.e., GA/TA-ship, lab responsibilities, individual research and expertise building, classes). 
