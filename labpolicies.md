@@ -69,7 +69,7 @@ All of the above, as well as:
 * If you need something signed or written from me or another senior staff member, give at least 2 weeks lead-time. 
 
 ## Code of Conduct
-The University of Maryland maintains a Code of Conduct for students (https://studentconduct.umd.edu/home/current-students) and staff/faculty (https://studentconduct.umd.edu/home/faculty-staff). This code of conduct pertains to both academic and non-academic misconduct. In addition, the University and the GARD Lab are committed to maintaining a working and learning environment free from sexual misconduct and discrimination; policies and procedures have been developed by the Office of Civil Rights and Sexual Misconduct (https://ocrsm.umd.edu/). At the broadest level, the following classes of behaviors are prohibited:
+The University of Maryland maintains a Code of Conduct for students (https://studentconduct.umd.edu/you/students) and staff/faculty (https://studentconduct.umd.edu/you/faculty-staff). This code of conduct pertains to both academic and non-academic misconduct. In addition, the University and the GARD Lab are committed to maintaining a working and learning environment free from sexual misconduct and discrimination; policies and procedures have been developed by the Office of Civil Rights and Sexual Misconduct (https://ocrsm.umd.edu/). At the broadest level, the following classes of behaviors are prohibited:
 
 >**Discrimination** is unequal treatment based on a legally protected status that is serious enough to unreasonably interfere with or limit an individual’s ability to participate in or benefit from a University program or activity, or that otherwise negatively affects a term or condition of the individual’s employment or education.
 
