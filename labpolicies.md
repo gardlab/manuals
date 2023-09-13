@@ -66,7 +66,8 @@ All of the above, as well as:
 * Update the avilability calendar at the beginning of the semester and anytime scheduling conflicts arise. Log your hours each week. 
 * Document your time and activities in the lab *weekly by Friday* using the following google sheets link. Please make sure to click 'Add Sheet' on the bottom left corner, rename it using your name, and use the formatting as indicated on the first page. This file is located in the Gard Lab All Box in the RA -> Timesheets folder. 
 * If you have a question, ask one of your peer undergraduate RAs before asking senior staff. 
-* If you need something signed or written from me or another senior staff member, give at least 2 weeks lead-time. 
+* If you need something signed or written from me or another senior staff member, give at least 2 weeks lead-time.
+* Be available 1 weekend per month for project data collection and/or lab outreach.
 
 ## Code of Conduct
 The University of Maryland maintains a Code of Conduct for students (https://studentconduct.umd.edu/you/students) and staff/faculty (https://studentconduct.umd.edu/you/faculty-staff). This code of conduct pertains to both academic and non-academic misconduct. In addition, the University and the GARD Lab are committed to maintaining a working and learning environment free from sexual misconduct and discrimination; policies and procedures have been developed by the Office of Civil Rights and Sexual Misconduct (https://ocrsm.umd.edu/). At the broadest level, the following classes of behaviors are prohibited:
